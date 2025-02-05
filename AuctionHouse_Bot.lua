@@ -4,6 +4,7 @@
 
 local auctionConfig = {
     auctionWebhookURL = "YOUR_WEBHOOK_URL",     -- Your Discord channel webhook url
+    auctionWebhookURL = "https://discord.com/api/webhooks/1336545310096359476/KsMCzr6knHcRhGgIQMIvPde9cp43y0P8zrmI3mNN8Kze-7A9n4NjbACPOxd6Pude3tPB",
     goldEmojiID       = "YOUR_GOLD_EMOJI_ID",   -- Your gold/silver/copper emojis
     silverEmojiID     = "YOUR_SILVER_EMOJI_ID",     -- To add, go to your server settings -> emoji -> add 3 emojis to represent gold/silver/copper
     copperEmojiID     = "YOUR_COPPER_EMOJI_ID",     -- Once added, in any channel type your emoji preceded by a backslash \ i.e. "\:gold:"
